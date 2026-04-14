@@ -1,0 +1,12 @@
+{
+  "export_job_id": "fa27870e-f581-44e2-a88f-fbadba388462",
+  "id_short": 740323,
+  "published_at": "2026-04-14T19:14:38Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-south-dakota-us-sample-740323",
+  "sample_asset_name": "beamstation_740323_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/740323/beamstation_740323_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "9e72a320603f195fbb23ad07b15c47f92499f4f84b82ea8b58e243afcf9062fb",
+  "sample_size_bytes": 37211,
+  "total_records": 50
+}
