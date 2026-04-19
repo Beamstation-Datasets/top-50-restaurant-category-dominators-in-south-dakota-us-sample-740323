@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in South Dakota, US",
-  "export_job_id": "fa27870e-f581-44e2-a88f-fbadba388462",
+  "export_job_id": "87a07341-3261-4a8c-89af-85a811eba7bf",
   "github_org": "Beamstation-Datasets",
   "id_short": 740323,
   "location_name": "South Dakota",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-south-dakota-us-sample-740323",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740323/beamstation_740323_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.8,
   "sample_records": 5,
-  "sample_sha256": "9e72a320603f195fbb23ad07b15c47f92499f4f84b82ea8b58e243afcf9062fb",
-  "sample_size_bytes": 37211,
-  "total_records": 50,
-  "updated_at": "2026-04-08T02:02:58.347507+00:00"
+  "sample_sha256": "84a5d35bf9c4f7a7f5bcca8afbe116860119ed3e71a32ad8b08c04308fdeba5d",
+  "sample_size_bytes": 37114,
+  "total_records": 51,
+  "updated_at": "2026-04-15T07:30:45.686767+00:00"
 }
