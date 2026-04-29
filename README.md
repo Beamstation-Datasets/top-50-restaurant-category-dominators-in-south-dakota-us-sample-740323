@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in South Dakota, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `740323` |
 | Location | South Dakota |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-22T13:52:50.366909+00:00 |
+| Full dataset size | 55 records |
+| Free sample size | 5 records (9.09%) |
+| Last export | 2026-04-29T14:30:45.205218+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-south-dakota-us-sample-740323/releases/download/sample-latest/beamstation_740323_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
